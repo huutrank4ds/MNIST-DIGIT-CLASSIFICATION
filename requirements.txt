@@ -1,0 +1,8 @@
+torch
+torchvision
+torchmetrics
+scikit-learn
+numpy
+tensorflow
+tqdm
+Pillow
